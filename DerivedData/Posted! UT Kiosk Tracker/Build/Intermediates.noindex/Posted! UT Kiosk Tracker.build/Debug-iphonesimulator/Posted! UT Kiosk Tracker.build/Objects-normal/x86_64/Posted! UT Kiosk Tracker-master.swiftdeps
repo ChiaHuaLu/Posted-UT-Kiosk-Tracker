@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "ccd3f05001ff7f1c3b217e7bdac924f3"
+build_time: [1512260734, 901546000]
+inputs:
+  "/Users/chiahua/Documents/CS/Posted! UT Kiosk Tracker/Posted! UT Kiosk Tracker/PosterViewController.swift": [1512245773, 0]
+  "/Users/chiahua/Documents/CS/Posted! UT Kiosk Tracker/Posted! UT Kiosk Tracker/AppDelegate.swift": [1512245187, 0]
+  "/Users/chiahua/Documents/CS/Posted! UT Kiosk Tracker/Posted! UT Kiosk Tracker/MapViewController.swift": [1512256524, 0]
