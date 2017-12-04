@@ -8,7 +8,15 @@
 
 import UIKit
 
-class PosterViewController: UIViewController {
+class PosterViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        return UITableViewCell
+    }
+    
+    
+    public func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return 0
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()

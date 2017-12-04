@@ -16,6 +16,7 @@
 		9AE5A08F1FD33F4300E28537 /* Posted__UT_Kiosk_TrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE5A08E1FD33F4300E28537 /* Posted__UT_Kiosk_TrackerTests.swift */; };
 		9AE5A09A1FD33F4300E28537 /* Posted__UT_Kiosk_TrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE5A0991FD33F4300E28537 /* Posted__UT_Kiosk_TrackerUITests.swift */; };
 		9AE5A0A91FD3810600E28537 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AE5A0A81FD380FC00E28537 /* CoreLocation.framework */; };
+		9AE5A0AB1FD38B3500E28537 /* Kiosk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE5A0AA1FD38B3500E28537 /* Kiosk.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9AE5A0991FD33F4300E28537 /* Posted__UT_Kiosk_TrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Posted__UT_Kiosk_TrackerUITests.swift; sourceTree = "<group>"; };
 		9AE5A09B1FD33F4300E28537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9AE5A0A81FD380FC00E28537 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		9AE5A0AA1FD38B3500E28537 /* Kiosk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kiosk.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		9AE5A06B1FD33F4300E28537 = {
 			isa = PBXGroup;
 			children = (
+				9AE5A0AA1FD38B3500E28537 /* Kiosk.swift */,
 				9AE5A0761FD33F4300E28537 /* Posted! UT Kiosk Tracker */,
 				9AE5A08D1FD33F4300E28537 /* Posted! UT Kiosk TrackerTests */,
 				9AE5A0981FD33F4300E28537 /* Posted! UT Kiosk TrackerUITests */,
@@ -277,6 +280,7 @@
 				9AE5A07C1FD33F4300E28537 /* PosterViewController.swift in Sources */,
 				9AE5A0781FD33F4300E28537 /* AppDelegate.swift in Sources */,
 				9AE5A07A1FD33F4300E28537 /* MapViewController.swift in Sources */,
+				9AE5A0AB1FD38B3500E28537 /* Kiosk.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
